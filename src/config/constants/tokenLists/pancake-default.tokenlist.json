@@ -225,6 +225,14 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+    {
+      "name": "Vanity Token",
+      "address": "0xEb94CEdee4927e0c39fd72D46D5798F397581533",
+      "symbol": "tVNW",
+      "decimals": 9,
+      "chainId": 4,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
     }
   ]
 }

@@ -40,7 +40,7 @@ export const USDC_ETH = new Token(ChainId.ETHEREUM, '0xA0b86991c6218b36c1d19D4a2
 
 export const USDC_RINKEBY = new Token(
   ChainId.RINKEBY,
-  '0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b',
+  '0xD92E713d051C37EbB2561803a3b5FBAbc4962431',
   6,
   'tUSDC',
   'test USD Coin',
@@ -141,4 +141,17 @@ export const USDC = {
 export const USDT = {
   [ChainId.BSC]: USDT_BSC,
   [ChainId.ETHEREUM]: USDT_ETH,
+}
+
+export const VNW_RINKEBY = new Token(
+  ChainId.RINKEBY,
+  '0xEb94CEdee4927e0c39fd72D46D5798F397581533',
+  9,
+  'VNW',
+  'Vanity Token Rinkeby',
+  '',
+)
+
+export const VNW = {
+  [ChainId.RINKEBY]: VNW_RINKEBY,
 }
