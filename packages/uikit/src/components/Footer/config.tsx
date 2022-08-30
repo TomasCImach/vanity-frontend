@@ -8,26 +8,26 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "https://docs.pancakeswap.finance/contact-us",
+        // href: "https://docs.pancakeswap.finance/contact-us",
       },
       {
         label: "Blog",
-        href: "https://medium.com/pancakeswap",
+        // href: "https://medium.com/pancakeswap",
       },
       {
         label: "Community",
-        href: "https://docs.pancakeswap.finance/contact-us/telegram",
+        // href: "https://docs.pancakeswap.finance/contact-us/telegram",
       },
       {
         label: "CAKE",
-        href: "https://docs.pancakeswap.finance/tokenomics/cake",
+        // href: "https://docs.pancakeswap.finance/tokenomics/cake",
       },
       {
         label: "—",
       },
       {
         label: "Online Store",
-        href: "https://pancakeswap.creator-spring.com/",
+        // href: "https://pancakeswap.creator-spring.com/",
         isHighlighted: true,
       },
     ],
@@ -37,15 +37,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: "Support https://docs.pancakeswap.finance/contact-us/customer-support",
+        // href: "Support https://docs.pancakeswap.finance/contact-us/customer-support",
       },
       {
         label: "Troubleshooting",
-        href: "https://docs.pancakeswap.finance/help/troubleshooting",
+        // href: "https://docs.pancakeswap.finance/help/troubleshooting",
       },
       {
         label: "Guides",
-        href: "https://docs.pancakeswap.finance/get-started",
+        // href: "https://docs.pancakeswap.finance/get-started",
       },
     ],
   },
@@ -54,23 +54,23 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/pancakeswap",
+        // href: "https://github.com/pancakeswap",
       },
       {
         label: "Documentation",
-        href: "https://docs.pancakeswap.finance",
+        // href: "https://docs.pancakeswap.finance",
       },
       {
         label: "Bug Bounty",
-        href: "https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty",
+        // href: "https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty",
       },
       {
         label: "Audits",
-        href: "https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
+        // href: "https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
       },
       {
         label: "Careers",
-        href: "https://docs.pancakeswap.finance/hiring/become-a-chef",
+        // href: "https://docs.pancakeswap.finance/hiring/become-a-chef",
       },
     ],
   },
@@ -80,12 +80,12 @@ export const socials = [
   {
     label: "Twitter",
     icon: TwitterIcon,
-    href: "https://twitter.com/pancakeswap",
+    href: "",
   },
   {
     label: "Telegram",
     icon: TelegramIcon,
-    items: [
+    items: [/*
       {
         label: "English",
         href: "https://t.me/pancakeswap",
@@ -150,32 +150,32 @@ export const socials = [
         label: "Announcements",
         href: "https://t.me/PancakeSwapAnn",
       },
-    ],
+    */],
   },
   {
     label: "Reddit",
     icon: RedditIcon,
-    href: "https://reddit.com/r/pancakeswap",
+    href: "",
   },
   {
     label: "Instagram",
     icon: InstagramIcon,
-    href: "https://instagram.com/pancakeswap_official",
+    href: "",
   },
   {
     label: "Github",
     icon: GithubIcon,
-    href: "https://github.com/pancakeswap/",
+    href: "",
   },
   {
     label: "Discord",
     icon: DiscordIcon,
-    href: "https://discord.gg/pancakeswap",
+    href: "",
   },
   {
     label: "Medium",
     icon: MediumIcon,
-    href: "https://medium.com/pancakeswap",
+    href: "",
   },
 ];
 
